@@ -1,6 +1,6 @@
-# composant-natif
+# composant-teleport
 
-This template should help get you started developing with Vue 3 in Vite.
+![Description de l'image](https://github.com/hNnicolas/vuejs-slot/blob/main/public/images/slot_screenshot.png)
 
 ## Recommended IDE Setup
 
@@ -26,15 +26,3 @@ npm install
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
-# composant-teleport
