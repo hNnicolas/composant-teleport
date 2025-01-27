@@ -1,6 +1,7 @@
 # composant-teleport
 
-![Description de l'image](https://github.com/hNnicolas/vuejs-slot/blob/main/public/images/slot_screenshot.png)
+![Description de l'image](https://github.com/hNnicolas/composant-teleport/blob/main/public/images/screenshot-1.png)
+![Description de l'image](https://github.com/hNnicolas/composant-teleport/blob/main/public/images/screenshot-2.png)
 
 ## Recommended IDE Setup
 
